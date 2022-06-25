@@ -1,3 +1,3 @@
-public class C2 {
+public class C4 {
     public final String s2 = "s2";
 }
